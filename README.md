@@ -1,4 +1,8 @@
 # discord-icons
+
+> [!NOTE]
+> The Role list is located [here](https://docs.google.com/document/d/1HyzGzS8JutsmkQ63S0X73zBHm-vkUHwJDcObydE23zk/edit?usp=drivesdk).
+
 Icons from [lucide](https://lucide.dev) and [FontAwesome](https://fontawesome.com). Colors by [Xolors](https://intensed-dev.github.io/xolors).
 
 ```markdown
